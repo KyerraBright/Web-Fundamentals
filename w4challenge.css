@@ -1,0 +1,23 @@
+*{
+    background-color: pink;
+    text-align: center;
+}
+header{
+    color: white;
+    text-align: center;
+}
+header{
+    font-size: 5em;
+}
+
+a:hover{
+    color: black;
+}
+div{
+    color: white;
+    text-align: center;
+}
+.main{
+    color: white;
+    font-size: 3em;
+}
