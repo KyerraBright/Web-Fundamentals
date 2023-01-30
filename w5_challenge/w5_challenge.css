@@ -1,0 +1,16 @@
+.top{
+    margin: 0 auto;
+}
+.inline{
+    display: inline-block;
+    margin: 20px;
+    width: 300px;
+    padding: 0;
+    border-radius: 50%;
+    border: 25px solid darkslategrey;
+
+
+}
+footer{
+    background-color: darkgrey;
+}
