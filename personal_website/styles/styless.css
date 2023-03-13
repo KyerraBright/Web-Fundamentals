@@ -1,0 +1,36 @@
+#logo_link{
+    margin: auto;
+    padding: 0%;
+}
+.logo{
+    width: 100px;
+}
+nav a{
+    align-items: center;
+    color: black;
+    padding: 95px;
+}
+a:hover{
+    background-color:#4B6c4b;
+    color: white;
+}
+footer{
+    color: black;
+    align-items: center;
+    padding: 45px;
+}
+a:link{
+    color: black;
+    text-decoration: none;
+}
+.a{
+    width: 1000px;
+    float: left;
+    padding:10px;
+}
+h1{
+    font-family: 'Babylonica', "Verdana", sans-serif;
+}
+p{
+    font-family: 'Lato', Georgia, sans-serif;
+}
