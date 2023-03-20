@@ -34,3 +34,8 @@ h1{
 p{
     font-family: 'Lato', Georgia, sans-serif;
 }
+.image{
+    width: 1000px;
+    float: left;
+    padding:10px;
+}
